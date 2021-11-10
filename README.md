@@ -9,7 +9,7 @@ VSCode is a free code editor. I have used VSCode to work with Python, HTML, CSS,
 * Getting started: https://code.visualstudio.com/docs
 * Introductory videos: https://code.visualstudio.com/docs/getstarted/introvideos
 
-## Extionsions
+## Some Useful Extionsions
 
 ### General
 
