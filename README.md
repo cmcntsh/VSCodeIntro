@@ -1,6 +1,6 @@
 # Introduction to VSCode
 
-VSCode is a free code editor. I have used VSCode to work with Python, HTML, CSS, JavaScript, JSON files, and to integrade version control with GitHub and Bitbucket.
+VSCode is a free code editor. I have used VSCode to work with Python, HTML, CSS, JavaScript, JSON files, and to integrate remote version control with GitHub and Bitbucket.
 
 ## Download VSCode
 
