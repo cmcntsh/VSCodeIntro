@@ -40,3 +40,15 @@ VSCode is a free code editor. I have used VSCode to work with Python, HTML, CSS,
 ## Syntax Highlighting & Emmet
 
 * See demo.
+
+## Command Palette
+
+* Gear icon bottom left of window - top option (Command Palette...).
+* Keyboard shortcut: Ctrl+Shift+P
+* Menu: View - Command Palette...
+
+### Useful commands
+
+* Format document
+* Git: Clone
+* Python: Select Interpreter
